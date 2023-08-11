@@ -1,0 +1,6 @@
+#ifndef DLLCREATE_LIBRARY_H
+#define DLLCREATE_LIBRARY_H
+
+void hello();
+
+#endif //DLLCREATE_LIBRARY_H
