@@ -4,3 +4,4 @@ cmake-build-debug/
 *.dylib
 *.so
 *.class
+.cache/
